@@ -7,7 +7,7 @@ import { pacoteDeProdutos } from "./pacoteDeProdutos";
 
 class App extends React.Component {
   state = {
-    filtroMinimo: 20,
+    filtroMinimo: 10,
     filtroMaximo: 100000,
     filtroBuscaPorNome: "",
     ordenacao: "Crescente",
@@ -137,6 +137,7 @@ class App extends React.Component {
 
     return (
       <ConjuntoDeComponentes>
+
         <Filtros
           minimo={this.state.filtroMinimo}
           maximo={this.state.filtroMaximo}
