@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/LabEcommerce/static/js/main.655827d0.chunk.js",
+    "main.js.map": "/LabEcommerce/static/js/main.655827d0.chunk.js.map",
+    "runtime-main.js": "/LabEcommerce/static/js/runtime-main.748cbda6.js",
+    "runtime-main.js.map": "/LabEcommerce/static/js/runtime-main.748cbda6.js.map",
+    "static/js/2.6046371e.chunk.js": "/LabEcommerce/static/js/2.6046371e.chunk.js",
+    "static/js/2.6046371e.chunk.js.map": "/LabEcommerce/static/js/2.6046371e.chunk.js.map",
+    "index.html": "/LabEcommerce/index.html",
+    "static/js/2.6046371e.chunk.js.LICENSE.txt": "/LabEcommerce/static/js/2.6046371e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.748cbda6.js",
+    "static/js/2.6046371e.chunk.js",
+    "static/js/main.655827d0.chunk.js"
+  ]
+}
